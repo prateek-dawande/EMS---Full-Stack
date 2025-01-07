@@ -1,2 +1,1 @@
-for using frontend 
-npm install 
+# Full Stack Project using React Js and Spring Boot with MySQL
